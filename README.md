@@ -1,3 +1,4 @@
+
 ```
 # Vulnerable Java Maven Project
 
@@ -57,3 +58,4 @@ To generate a `.war` file from the project, follow these steps:
 ## Usage and Testing
 
 Once the project is running or the `.war` file is generated, you can interact with the application by accessing the provided endpoints. Please refer to the project documentation or the source code for information on available endpoints and their usage.
+
